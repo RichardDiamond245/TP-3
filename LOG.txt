@@ -1,0 +1,260 @@
+Running test_read_and_graph 0
+Running test_print_dict 0
+ nice
+ nicely
+
+Running test_word_and_freq 0
+    isWord("aa"):	0      gWF("aa"):	-1
+    isWord("alex"):	0      gWF("alex"):	-1
+    isWord("fre"):	0      gWF("fre"):	-1
+    isWord("ab"):	0      gWF("ab"):	-1
+    isWord("abring"):	0      gWF("abring"):	-1
+    isWord("a"):	0      gWF("a"):	-1
+    isWord("dot"):	0      gWF("dot"):	-1
+    isWord("alexa"):	0      gWF("alexa"):	-1
+    isWord("free"):	0      gWF("free"):	-1
+    isWord("designed"):	0      gWF("designed"):	-1
+    isWord("nuts"):	0      gWF("nuts"):	-1
+    isWord("and"):	0      gWF("and"):	-1
+    isWord("why"):	0      gWF("why"):	-1
+    isWord("all"):	0      gWF("all"):	-1
+    isWord("squirrel"):	0      gWF("squirrel"):	-1
+
+Running test_shortest 0
+    nice
+
+Running test_longest 0
+    nicely
+
+-------------------
+Running test_read_and_graph 1
+Running test_print_dict 1
+ nice
+ nicely
+
+Running test_word_and_freq 1
+    isWord("aa"):	0      gWF("aa"):	-1
+    isWord("alex"):	0      gWF("alex"):	-1
+    isWord("fre"):	0      gWF("fre"):	-1
+    isWord("ab"):	0      gWF("ab"):	-1
+    isWord("abring"):	0      gWF("abring"):	-1
+    isWord("a"):	0      gWF("a"):	-1
+    isWord("dot"):	0      gWF("dot"):	-1
+    isWord("alexa"):	0      gWF("alexa"):	-1
+    isWord("free"):	0      gWF("free"):	-1
+    isWord("designed"):	0      gWF("designed"):	-1
+    isWord("nuts"):	0      gWF("nuts"):	-1
+    isWord("and"):	0      gWF("and"):	-1
+    isWord("why"):	0      gWF("why"):	-1
+    isWord("all"):	0      gWF("all"):	-1
+    isWord("squirrel"):	0      gWF("squirrel"):	-1
+
+Running test_shortest 1
+    nice
+
+Running test_longest 1
+    nicely
+
+-------------------
+Running test_read_and_graph 2
+Running test_print_dict 2
+ a
+ cat
+ drinking
+ eating
+ is
+ jumps
+ meanwhile
+ nice
+ nicely
+ nut
+ squirrel
+ the
+ water
+ while
+
+Running test_word_and_freq 2
+    isWord("aa"):	0      gWF("aa"):	-1
+    isWord("alex"):	0      gWF("alex"):	-1
+    isWord("fre"):	0      gWF("fre"):	-1
+    isWord("ab"):	0      gWF("ab"):	-1
+    isWord("abring"):	0      gWF("abring"):	-1
+    isWord("a"):	1      gWF("a"):	2
+    isWord("dot"):	0      gWF("dot"):	-1
+    isWord("alexa"):	0      gWF("alexa"):	-1
+    isWord("free"):	0      gWF("free"):	-1
+    isWord("designed"):	0      gWF("designed"):	-1
+    isWord("nuts"):	0      gWF("nuts"):	-1
+    isWord("and"):	0      gWF("and"):	-1
+    isWord("why"):	0      gWF("why"):	-1
+    isWord("all"):	0      gWF("all"):	-1
+    isWord("squirrel"):	1      gWF("squirrel"):	1
+
+Running test_shortest 2
+    a
+
+Running test_longest 2
+    meanwhile
+
+-------------------
+Running test_read_and_graph 3
+Running test_print_dict 3
+ a
+ about
+ alexa
+ amazon
+ an
+ and
+ around
+ as
+ ask
+ bring
+ capabilities
+ challenge
+ controlled
+ creating
+ customers
+ designed
+ designers
+ device
+ dot
+ echo
+ every
+ far
+ features
+ field
+ for
+ free
+ hands
+ her
+ interesting
+ is
+ just
+ learn
+ life
+ meet
+ more
+ new
+ our
+ powers
+ recognition
+ same
+ service
+ ship
+ software
+ team
+ testing
+ that
+ the
+ to
+ ui
+ uses
+ voice
+ we
+ week
+ your
+
+Running test_word_and_freq 3
+    isWord("aa"):	0      gWF("aa"):	-1
+    isWord("alex"):	0      gWF("alex"):	-1
+    isWord("fre"):	0      gWF("fre"):	-1
+    isWord("ab"):	0      gWF("ab"):	-1
+    isWord("abring"):	0      gWF("abring"):	-1
+    isWord("a"):	1      gWF("a"):	12
+    isWord("dot"):	1      gWF("dot"):	1
+    isWord("alexa"):	1      gWF("alexa"):	3
+    isWord("free"):	1      gWF("free"):	3
+    isWord("designed"):	1      gWF("designed"):	1
+    isWord("nuts"):	0      gWF("nuts"):	-1
+    isWord("and"):	1      gWF("and"):	1
+    isWord("why"):	0      gWF("why"):	-1
+    isWord("all"):	0      gWF("all"):	-1
+    isWord("squirrel"):	0      gWF("squirrel"):	-1
+
+Running test_shortest 3
+    a
+
+Running test_longest 3
+    capabilities
+
+-------------------
+Running test_read_and_graph 4
+Running test_print_dict 4
+ aaaa
+ about
+ alexa
+ amazon
+ and
+ ann
+ around
+ ask
+ bring
+ capabilities
+ challenge
+ controlled
+ creating
+ customers
+ designed
+ designers
+ device
+ dot
+ echo
+ every
+ far
+ features
+ field
+ for
+ free
+ hands
+ her
+ interesting
+ is
+ just
+ learn
+ life
+ meet
+ more
+ new
+ our
+ powers
+ recognition
+ same
+ service
+ ship
+ software
+ team
+ testing
+ that
+ the
+ to
+ ui
+ uses
+ voice
+ we
+ week
+ your
+
+Running test_word_and_freq 4
+    isWord("aa"):	0      gWF("aa"):	-1
+    isWord("alex"):	0      gWF("alex"):	-1
+    isWord("fre"):	0      gWF("fre"):	-1
+    isWord("ab"):	0      gWF("ab"):	-1
+    isWord("abring"):	0      gWF("abring"):	-1
+    isWord("a"):	0      gWF("a"):	-1
+    isWord("dot"):	1      gWF("dot"):	1
+    isWord("alexa"):	1      gWF("alexa"):	3
+    isWord("free"):	1      gWF("free"):	3
+    isWord("designed"):	1      gWF("designed"):	1
+    isWord("nuts"):	0      gWF("nuts"):	-1
+    isWord("and"):	1      gWF("and"):	1
+    isWord("why"):	0      gWF("why"):	-1
+    isWord("all"):	0      gWF("all"):	-1
+    isWord("squirrel"):	0      gWF("squirrel"):	-1
+
+Running test_shortest 4
+    is
+
+Running test_longest 4
+    capabilities
+
+-------------------

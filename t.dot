@@ -1,0 +1,21 @@
+digraph G {
+0 [label=" ", shape=diamond];
+1 [label="a (6)"];
+2 [label="l (6)", shape=box];
+5 [label="e (3)"];
+7 [label="r (1)", shape=box];
+6 [label="x (2)", shape=box];
+3 [label="l (2)"];
+4 [label="o (2)", shape=box];
+8 [label="n (1)"];
+9 [label="s (1)", shape=box];
+0 -> 1
+1 -> 2
+2 -> 5
+5 -> 7
+5 -> 6
+2 -> 3
+3 -> 4
+4 -> 8
+8 -> 9
+}

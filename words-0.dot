@@ -1,0 +1,15 @@
+digraph G {
+0 [label=" ", shape=diamond];
+1 [label="n (2)"];
+2 [label="i (2)"];
+3 [label="c (2)"];
+4 [label="e (2)", shape=box];
+5 [label="l (1)"];
+6 [label="y (1)", shape=box];
+0 -> 1
+1 -> 2
+2 -> 3
+3 -> 4
+4 -> 5
+5 -> 6
+}

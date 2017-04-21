@@ -1,0 +1,5 @@
+Creating and testing Alexa software capabilities is an interesting challenge we ship new features every week! Just ask the team.
+Learn more about Alexa, the voice service that powers Amazon Echo.
+Alexa is designed around your voice. Meet the voice UI designers that bring her to life for our customers.
+Echo Dot is a hands free free free, voice controlled device that uses the same far field voice recognition as Amazon Echo.
+
